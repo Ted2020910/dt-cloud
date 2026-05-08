@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "claude-code",
+      "name": "Claude code 原理解析",
+      "path": "/Users/angle/Desktop/Claude code 原理解析",
+      "addedAt": "2026-05-08T00:53:08.869Z"
+    },
+    {
+      "id": "companyclaw",
+      "name": "小型企业agent运行平台",
+      "path": "/Users/angle/companyclaw",
+      "addedAt": "2026-05-08T02:18:35.733Z"
+    },
+    {
+      "id": "openclaw",
+      "name": "opencalw",
+      "path": "/Users/angle/openclaw",
+      "addedAt": "2026-05-08T02:31:09.619Z"
+    }
+  ]
+}
